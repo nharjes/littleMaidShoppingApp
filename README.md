@@ -1,3 +1,2 @@
-# littleMaidShoppingApp
-a little shopping cart WPA app using the firebase Database
+a PWA shoppinglist using the firebase database
 
