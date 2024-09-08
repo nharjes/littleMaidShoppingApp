@@ -1,4 +1,4 @@
-# Little Maid Shop - Shopping Cart App
+# Little Maid 
 
 This is a simple shopping list web application using HTML, CSS, JavaScript, and Firebase Realtime Database. The app allows users to add and remove items to/from a shopping list, which is stored and synced using Firebase.
 
