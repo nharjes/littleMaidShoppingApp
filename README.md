@@ -18,7 +18,7 @@ This is a simple shopping list web application using HTML, CSS, JavaScript, and 
 
  ## Screenshot
 
-![image](https://github.com/nharjes/Drummachine/assets/132439937/dfb654a3-339d-443d-b2f8-127dcb3b86bb)
+![image](https://github.com/nharjes/littleMaidShoppingApp/blob/main/screenshot%20littleMaid.JPG)
 
 ## Firebase Configuration
 
